@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Robin NTW","Playing Minecraft"];
+const statusMessages = ["Praying to God Chocolate","Playing Chess"];
 
 
 let currentIndex = 0;
